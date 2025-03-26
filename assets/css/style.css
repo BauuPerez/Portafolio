@@ -374,11 +374,11 @@ span{
 
 .service-box{
     background-color: var(--main-color);
-    height: 200px;
+    height: 350px;
     border-radius: 5rem;
     cursor: pointer;
     transition: 0.3 ease;
-    margin: 1rem;
+    margin: 4rem;
 }
 
 .service-box:hover{
@@ -392,7 +392,7 @@ span{
     display: flex;
     flex-direction: column;
     text-align: left;
-    max-height: 150px;
+    max-height: 190px;
     justify-content: center;
     align-items: center;
     padding: 5em;

@@ -356,7 +356,7 @@ span{
 }
 
 .heading{
-    font-size: 3rem; /* Tamaño del texto */
+    font-size: 4rem; /* Tamaño del texto */
     font-weight: bold; /* Grosor de la fuente */
     text-align: center; /* Alineación centrada */
     color: var(--main-color); /* Color principal (puedes cambiarlo a uno que prefieras) */
@@ -374,7 +374,7 @@ span{
 
 .service-box{
     background-color: var(--main-color);
-    height: 420px;
+    height: 200px;
     border-radius: 5rem;
     cursor: pointer;
     transition: 0.3 ease;
